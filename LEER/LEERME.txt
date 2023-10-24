@@ -1,0 +1,1 @@
+No se ha podido concluir el inicio de sesión de google debido a que no aparece la huella en android studio y no he encontrado solución, en los videos no hacen mención a esto, únicamente dicen donde está. Adjunto captura de pantalla como prueba

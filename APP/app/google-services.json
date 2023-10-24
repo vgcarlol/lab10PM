@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157275488163",
+    "project_id": "prograplataformas",
+    "storage_bucket": "prograplataformas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157275488163:android:f6d54a84634db254eb2416",
+        "android_client_info": {
+          "package_name": "com.example.lab10pp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dDeiG1e-GuWPjBIWSHZKlmlRT8xrqYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
